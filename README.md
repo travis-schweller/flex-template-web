@@ -39,6 +39,9 @@ If you want to build your own Flex marketplace by customizing the template appli
 [How to Customize FTW](https://www.sharetribe.com/docs/guides/how-to-customize-ftw/) guide in Flex
 Docs.
 
+## Deploy to S3
+Use yarn build && yarn deploy to push the build to s3 bucket described in package.json - TJS
+
 ## Deploying to Heroku
 
 **Note:** Remember to fork the repository before deploying the application. Connecting your own
