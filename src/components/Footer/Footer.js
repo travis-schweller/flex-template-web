@@ -108,8 +108,10 @@ const Footer = props => {
                 </li>
               </ul>
             </div>
-            <div className={css.searches}>
-              <ul className={css.list}>
+            < div className={css.searches}>
+
+
+              { /* <ul className={css.list}>
                 <li className={css.listItem}>
                   <NamedLink
                     name="SearchPage"
@@ -234,7 +236,10 @@ const Footer = props => {
                     <FormattedMessage id="Footer.searchAhvenanmaa" />
                   </NamedLink>
                 </li>
-              </ul>
+              </ul> */}
+
+
+
             </div>
             <div className={css.extraLinks}>
               <div className={css.someLinks}>{socialMediaLinks}</div>

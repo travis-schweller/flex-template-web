@@ -40,7 +40,7 @@ If you want to build your own Flex marketplace by customizing the template appli
 Docs.
 
 ## Deploy to S3
-Use yarn build && yarn deploy to push the build to s3 bucket described in package.json - TJS
+Use "yarn build && yarn deploy && yarn postdeploy" to push the build to s3 bucket described in package.json - TJS
 
 ## Deploying to Heroku
 

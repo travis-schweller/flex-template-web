@@ -31,11 +31,11 @@ const IconLogo = props => {
     // </svg>
     <svg width="39px" height="37px" viewBox="0 0 39 37" version="1.1" xmlns="http://www.w3.org/2000/svg" >
 
-      <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g id="Page-2" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
           <g id="Artboard" transform="translate(-109.000000, -52.000000)">
               <g id="Group" transform="translate(111.000000, 52.000000)">
-                  <ellipse id="Oval" stroke="#88A489" stroke-width="3" fill-rule="nonzero" cx="17.5" cy="18.0" rx="17.5" ry="16.5410959"></ellipse>
-                  <text id="P" font-family="SignPainter-HouseScriptSemibold, SignPainter" font-size="32" font-style="condensed" font-weight="500" fill="#88A489">
+                  <ellipse id="Oval" stroke="#88A489" strokeWidth="3" fillRule="nonzero" cx="17.5" cy="18.0" rx="17.5" ry="16.5410959"></ellipse>
+                  <text id="P" fontFamily="SignPainter-HouseScriptSemibold, SignPainter" fontSize="32" fontStyle="condensed" fontWeight="500" fill="#88A489">
                       <tspan x="9.43188406" y="27">P</tspan>
                   </text>
               </g>
